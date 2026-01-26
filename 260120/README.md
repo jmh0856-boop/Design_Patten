@@ -1,5 +1,3 @@
-markdown
-
 ## Task 1 파이썬 코드
 ```python
 from abc import ABC, abstractmethod
