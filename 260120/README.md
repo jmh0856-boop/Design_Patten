@@ -1,8 +1,6 @@
 markdown
-# Design_Patten
 
 ## Task 1 파이썬 코드
-
 ```python
 from abc import ABC, abstractmethod
 
@@ -58,6 +56,6 @@ class Troll(Character):
 
 class Knight(Character):
     def fight(self):
-        print("기사가 전투를 시작합니다.")
+        print("기사가 전투를 시작합니다.")'''
 
 ![takse1](61page.jpeg)
