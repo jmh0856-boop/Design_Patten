@@ -55,5 +55,5 @@ class Troll(Character):
 class Knight(Character):
     def fight(self):
         print("기사가 전투를 시작합니다.")
-
+'''
 ![takse1](61page.jpeg)
