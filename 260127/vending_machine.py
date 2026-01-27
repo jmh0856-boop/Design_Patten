@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-clas vendingMachine(ABC):
+class vendingMachine(ABC):
     def __init(self, price, machine_type):
         self.price = price
         self.machine_type = machine_type
