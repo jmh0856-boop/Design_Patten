@@ -15,7 +15,7 @@
 - **코드의 유연성 및 재사용성**: 각 알고리즘이 독립적인 클래스로 분리되어 관리되므로 코드가 더 깔끔해지고 재사용성이 높아집니다.
 
 
-## Task 1 파이썬 코드
+# Task1 파이썬 코드
 ```python
 from abc import ABC, abstractmethod
 
